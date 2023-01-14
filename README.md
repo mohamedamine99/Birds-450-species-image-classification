@@ -9,4 +9,4 @@ The dataset comprise images of 450 bird species. 70,626 training images, 22500 t
 * You can find a link to the dataset used in ths project [here](https://www.kaggle.com/datasets/gpiosenka/100-bird-species) .  
 * You can find a link to the code output, including history logs and model weights [here](https://drive.google.com/drive/folders/1gdLgZvIszPN666WwSr8uSkOTzgZF4Irm?usp=share_link) .
 * [Kaggle version](https://github.com/mohamedamine99/Birds-450-species-image-classification/blob/main/bird-species-image-classification%20(3).ipynb)
-* [Colab version](https://github.com/mohamedamine99/Birds-450-species-image-classification/blob/main/bird_species_image_classification%20Colab.ipynb)
+* [Colab version](https://github.com/mohamedamine99/Birds-450-species-image-classification/blob/main/bird_species_image_classification_Colab.ipynb)
